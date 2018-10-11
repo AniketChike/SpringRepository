@@ -6,7 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		String ch = null;
 		FIRST_REPEAT fr = new FIRST_REPEAT();
-		ch = fr.repeateChar("AniketDhanwer");
+		ch = fr.repeateChar("Aniket");
 		
 			System.out.println("FIrst duplicates char is :"+ch);
 	}
